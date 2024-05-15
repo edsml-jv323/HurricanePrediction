@@ -1,7 +1,7 @@
 # The Day After Tomorrow
 
 ### Predicting tropical storm behaviour through Deep Learning
-**Gourp: Olga <br><br>**
+
 ![Alt Text for Image 1](https://github.com/ese-msc-2023/acds-the-day-after-tomorrow-olga/blob/main/media/logo.png?raw=true)
 
 ## Motivation
